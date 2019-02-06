@@ -28,6 +28,7 @@ namespace SageAufbaukursCSharp
         {
             DataContext = new MainWindowViewModel();
             InitializeComponent();
+            // irgend ein sinnsoler Kommentar
         }
     }
 }
